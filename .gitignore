@@ -1,0 +1,15 @@
+# Node Modules
+node_modules
+
+# ENV
+.env
+
+# Next
+.next
+.next_repl_history
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
